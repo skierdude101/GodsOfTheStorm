@@ -1,0 +1,19 @@
+name: GodsOfTheStorm
+main: me.skierdude101.GodsOfTheStorm
+version: 1.0
+commands:
+   addLightningRod:
+      description: Gives The Player a Lightning Rod
+      usage: /addLightningRod
+   addLightningStick:
+      description: Gives The Player a Short-Range Lightning Stick
+      usage: /addLightningStick
+   addLightningWall:
+      description: Gives The Player a Lightning Wall
+      usage: /addLightningWall
+   addRainStick:
+      description: Gives The Player a Rain Stick
+      usage: /addRainStick
+   addFireStaff:
+      description: Gives The Player a Fire Staff
+      usage: /addFireStaff
